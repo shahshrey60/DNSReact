@@ -1,0 +1,21 @@
+.App {
+  display:flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+  justify-content: content;
+}
+
+button{
+  width: 120px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  background-color: yellowgreen;
+  padding: 20px;
+  border-radius: 10px;
+}
+button:hover{
+  background-color: lightcoral;
+  color:white;
+}
